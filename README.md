@@ -2,9 +2,12 @@
 utility for convert javascript string and utf8 bytes
 
 the default array constructor is TypedArraySupported?Uint8Array:Array.
+```
+npm i utf8util --save
+```
 
 ```javascript
-var utf8Util=require('utf8Util');
+var utf8Util=require('utf8util');
 
 //string to bytes
 utf8Util.utf8ToBytes('🌶');	//Uint8Array(4) [240, 159, 140, 182]
