@@ -1,0 +1,22 @@
+{
+  "name": "utf8util",
+  "version": "1.0.0",
+  "description": "utility for convert javascript string and utf8 bytes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiaJiaJiang/utf8util.js.git"
+  },
+  "keywords": [
+    "utf8"
+  ],
+  "author": "luojia@luojia.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiaJiaJiang/utf8util.js/issues"
+  },
+  "homepage": "https://github.com/JiaJiaJiang/utf8util.js#readme"
+}
