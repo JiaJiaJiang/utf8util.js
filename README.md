@@ -1,7 +1,8 @@
 # utf8util.js
 utility for convert javascript string and utf8 bytes
+This is mainly used in browser,because there is Buffer class in Node.js.
 
-the default array constructor is TypedArraySupported?Uint8Array:Array.
+The default array constructor is TypedArraySupported?Uint8Array:Array.
 ```
 npm i utf8util --save
 ```
